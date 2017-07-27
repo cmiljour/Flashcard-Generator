@@ -1,3 +1,3 @@
 # Flashcard-Generator
 
-MAKE SURE YOU RUN $ code MasterCard.js
+MAKE SURE YOU RUN $ node MasterCard.js
